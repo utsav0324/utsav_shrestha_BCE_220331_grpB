@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lab2","l":"MyClassOne"},{"p":"lab2","l":"MyInfo"},{"p":"lab2","l":"MyMultipleObj"},{"p":"lab2","l":"MyStudent"},{"p":"lab2","l":"Student"},{"p":"lab2","l":"TestStatic"}];updateSearchResults();
